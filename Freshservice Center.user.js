@@ -4,7 +4,8 @@
 // @version      0.1
 // @description  enter something useful
 // @author       You
-// @match        http://ibiquity.freshservice.com/helpdesk/dashboard
+// @include        http://ibiquity.freshservice.com/helpdesk/dashboard
+// @include http://ibiquity.freshservice.com/helpdesk/dashboard
 // @grant        none
 // ==/UserScript==
 

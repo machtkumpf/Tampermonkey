@@ -11,7 +11,7 @@
 // ==/UserScript==
 
 //===[Settings]===\\
-var StRefTime = '30';  //==[Set time by seconds]
+var StRefTime = '90';  //==[Set time by seconds]
 //===[/Settings]===\\
 
 if (StRefTime > 0) setTimeout("location.reload(true);",StRefTime*1000);
